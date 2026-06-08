@@ -24,6 +24,9 @@ This is an early alpha. It is designed for personal streaming setups where you w
 - App log at `logs/app.log`
 - PyInstaller build script for one-folder EXE builds
 
+  <img width="956" height="746" alt="image" src="https://github.com/user-attachments/assets/a301145b-bc1b-4daa-9104-72b58058ca19" />
+
+
 ## Installation from source
 
 1. Install Python 3.10 or 3.11.
