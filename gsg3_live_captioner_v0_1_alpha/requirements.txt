@@ -1,0 +1,6 @@
+faster-whisper==1.0.3
+sounddevice==0.4.7
+numpy==1.26.4
+keyboard==0.13.5
+pyinstaller==6.9.0
+pyinstaller-hooks-contrib==2024.7
