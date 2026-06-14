@@ -1,5 +1,7 @@
 # GSG3 Live Captioner
 
+<img width="1024" height="1024" alt="live_captioner_logo" src="https://github.com/user-attachments/assets/0d8112f5-8c97-492b-afa6-cda22dc30bf6" />
+
 **Version:** `v0.1.0-alpha`
 
 A Windows-focused local speech-to-text captioning utility for OBS and Twitch bot workflows.
